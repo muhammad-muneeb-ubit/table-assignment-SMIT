@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    margin: 2px  auto 0px  auto;
+}
+div{
+    background-color:#9F56C3;
+}
+table{
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+}
+#head{
+    color: white;
+    background-color: #373148;
+}
+.grey{
+    background-color: #F5F5F6;
+}
+.red:hover{
+    background-color: hwb(3 28% 38%);
+    box-shadow: 2px 4px 3px 3px grey;
+}
+.yellow:hover{
+    background-color:#BDB76B;
+    box-shadow: 2px 4px 3px 3px grey;
+}
+.white{
+    background-color: white;    
+}
+.whole{
+    background-color:#9F56C3;
+    width: 700px;
+    height: 100vh;
+}
+tr td{
+    
+    background-color: #fff;
+}
